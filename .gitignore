@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Backup files
+*.backup
+*~
+*.swp
+
+# Personal config (if someone creates one)
+config.sh
+credentials.sh
+
+# Logs
+*.log
