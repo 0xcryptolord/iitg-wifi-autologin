@@ -7,7 +7,7 @@ A bash script to automatically login to IITG campus WiFi (Agnigarh portal) and m
 Born out of pure frustration of:
 - Keeping Chrome open 24/7 just for a WiFi login extension 
 - Getting kicked out every 20 minutes during important work
-- Missing that 100x crypto pump because you were busy logging back into WiFi instead of buying the dip                                                                                                                             │ │
+- Missing that 100x crypto pump because you were busy logging back into WiFi instead of buying the dip                                                                                                                            
 - Your blockchain node losing sync and having to re-download 500GB because WiFi said "nope"
 - Losing that sweet entry point because you were typing your password AGAIN
 - Typing the same credentials 50 times a day like a robot
